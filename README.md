@@ -1,17 +1,17 @@
 # Module1-Challenge
 Case Study on Company name and how its solving a standing problem in domainname domain
 
-# KOHO ~ Your New Pocket Money
+# 
 
-## Overview and Origin
+## KOHO  
 
-* Name of company ~ KOHO
+* KOHO ~ A Canadian based fintech start up has been causing a stir in the traditional banking industry since it was founded in 2014. KOHO offers a reloadable Visa card and a mobile app that give its customers a distinctive banking experience. KOHO has gained a significant amount of users among Canadian millennials by removing the typical fees associated with conventional banking, offering other financial management tools, and providing cashback rewards. This case-study explores KOHO's ground-breaking business strategy and how it has revolutionised the Canadian banking sector.
+  
+  The idea for KOHO came about when its founder and CEO, Daniel Eberhard, was living in Kenya and working for a mobile banking company. He saw firsthand how mobile banking was revolutionizing financial services in Africa, and he realized that there was a similar opportunity in Canada to disrupt the traditional banking industry and provide a better banking experience for consumers.
 
-* When was the company incorporated? ~2014
+Eberhard saw that many Canadians were dissatisfied with the high fees and limited services offered by traditional banks, and that there was a need for a more affordable and accessible alternative. He founded KOHO in 2014 with the goal of creating a mobile banking app and prepaid Visa card that would provide Canadians with a better way to manage their money and save more effectively.
 
-* Who are the founders of the company? ~ Daniel Eberhard
-
-* How did the idea for the company (or project) come about? 
+Since its launch, KOHO has grown rapidly and has attracted millions of users who appreciate its user-friendly interface, cashback rewards program, and commitment to helping Canadians achieve financial well-being. The company has also expanded its product offerings to include a high-interest savings account and a premium subscription service that offers additional benefits and features.
 
 * How is the company funded? How much funding have they received? ~ KOHO Financial has raised a total of $278.9M in funding over 10 rounds. Their latest funding was raised on Feb 1, 2022 from a Series D round.
 KOHO Financial is funded by 20 investors. Round13 Capital and Portage Ventures are the most recent investors.(crunch base) 
@@ -57,3 +57,9 @@ KOHO also aims to provide a more affordable and accessible alternative to tradit
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+Resources
+* https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/
+* https://www.crunchbase.com/organization/koho-financial/company_financials
+
