@@ -37,30 +37,43 @@ KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kub
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? KOHO operates in the domain of digital banking and personal finance management.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* What have been the major trends and innovations of this domain over the last 5-10 years?  Over the last 5-10 years, there have been several major trends and innovations in this domain, including the rise of mobile banking, the adoption of blockchain and cryptocurrency, and the emergence of AI-powered financial management tools.
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? Other major companies in this domain include traditional banks that offer digital banking services, such as TD Bank and RBC, as well as newer digital-only banks, such as Tangerine and Simplii Financial. There are also several fintech startups in Canada, such as Wealthsimple and PayBright, that are focused on providing innovative financial management solutions.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? The business impact of KOHO so far has been significant. Since its launch in 2017, the company has grown rapidly, with over 350,000 users and over $4 billion in transactions processed. KOHO has also been recognized as one of Canada's fastest-growing fintech companies, with several awards and accolades to its name.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+ Some of the core metrics that companies in this domain use to measure success include user growth, transaction volume, and customer satisfaction. Based on these metrics, KOHO is performing well, with steady user growth and high levels of customer satisfaction.
 
 * How is your company performing relative to competitors in the same domain?
+  KOHO is also performing well relative to its competitors in the same domain. While the digital banking space in Canada is becoming increasingly crowded, KOHO's commitment to transparency and accessibility has helped it stand out from the competition.
+
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) international transfers, koho offers credit building, its slowly improving its features.
+ If I were to advise KOHO, I would suggest that the company consider expanding its offerings to include investment and retirement planning services. While KOHO currently offers users the ability to set savings goals, there is an opportunity
+ Savings and Investment Accounts: While KOHO currently offers a savings feature, they do not have a full-fledged savings or investment account option. Offering these types of accounts would allow customers to save and invest their money with KOHO, increasing the amount of money they hold with the company and potentially leading to more revenue for KOHO. The company could also look into offering high-yield savings or investment options to differentiate themselves from competitors.
+International Money Transfer: Currently, KOHO does not offer international money transfer services. Adding this feature could be beneficial to customers who travel or have family and friends abroad, as it would allow them to easily and securely transfer money across borders. This could potentially attract a larger customer base and increase revenue for the company.
+Enhanced Budgeting Tools: While KOHO does offer budgeting tools, they could consider enhancing them to include more personalized insights and recommendations for customers. This could involve using AI or machine learning algorithms to analyze customers' spending patterns and offer tailored advice for saving money or meeting financial goals.
 
 * Why do you think that offering this product or service would benefit the company?
+  Offering these new products or services could benefit KOHO by increasing their customer base, retaining current customers, and potentially leading to more revenue for the company.
 
 * What technologies would this additional product or service utilize?
+  In terms of technologies that could be utilized for these new products or services, KOHO could consider:
+Partnering with a third-party provider that specializes in international money transfer services, such as TransferWise or PayPal.
+Implementing machine learning algorithms or AI technology to enhance their budgeting tools and offer personalized insights and recommendations for customers.
+Utilizing blockchain technology for secure and transparent international money transfers.
+
 
 * Why are these technologies appropriate for your solution?
-
+  Overall, these new products and services could benefit KOHO by providing more options for customers and increasing revenue for the company. Implementing new technologies could also enhance the customer experience and differentiate KOHO from their competitors.
 
 Resources
 * https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/
