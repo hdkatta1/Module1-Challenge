@@ -13,24 +13,27 @@ Eberhard saw that many Canadians were dissatisfied with the high fees and limite
 
 Since its launch, KOHO has grown rapidly and has attracted millions of users who appreciate its user-friendly interface, cashback rewards program, and commitment to helping Canadians achieve financial well-being. The company has also expanded its product offerings to include a high-interest savings account and a premium subscription service that offers additional benefits and features.
 
-* How is the company funded? How much funding have they received? ~ KOHO Financial has raised a total of $278.9M in funding over 10 rounds. Their latest funding was raised on Feb 1, 2022 from a Series D round.
-KOHO Financial is funded by 20 investors. Round13 Capital and Portage Ventures are the most recent investors.(crunch base) 
+KOHO Financial has raised a total of $278.9M in funding over 10 rounds. Their latest funding was raised on Feb 1, 2022 from a Series D round. KOHO Financial is funded by 20 investors. Round13 Capital and Portage Ventures are the most recent investors.(crunch base) 
 KOHO makes money in one of two ways. The first is through Premium account subscriptions (but we're completely transparent about the user's costs!). The second is through interchange fees, the fees that merchants and retailers are charged whenever someone makes a purchase using a particular card.
 
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve? ~ KOHO is a Canadian financial technology company that aims to help people better manage their money and save more effectively. The specific financial problem that KOHO is trying to solve is the issue of overspending and financial stress that many Canadians face.
+* What specific financial problem is the company or project trying to solve? ~ KOHO aims to help people better manage their money and save more effectively. It solves the problem of hidden fees and lack of transparency in the traditional banking industry by offering a no-fee banking solution.The specific financial problem that KOHO is trying to solve is the issue of overspending and financial stress that many Canadians face.
 
-KOHO's main product is a mobile banking app and prepaid Visa card that is designed to help users set and stick to a budget, while also earning cashback rewards on their purchases. The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account.
+
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+ As of September 2021, KOHO has reported over 350,000 users and has processed over CAD $10 billion in transactions. The company has also won several awards, including the Best Financial Technology Solution at the 2021 Canadian Innovation Awards.
+
+
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+  KOHO's main product is a mobile banking app and prepaid Visa card that is designed to help users set and stick to a budget, while also earning cashback rewards on their purchases. The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account. The solution that KOHO offers is a mobile app and reloadable Visa card that provides users with real-time insights into their spending and savings habits. KOHO's app allows users to set savings goals, track their spending, and earn cash back on purchases. The company's unfair advantage is its user-friendly interface and its commitment to transparency and accessibility.
 
 KOHO also aims to provide a more affordable and accessible alternative to traditional banking, with no monthly fees or minimum balance requirements. By helping users better understand their spending habits and save more effectively, KOHO hopes to reduce financial stress and improve financial well-being for Canadians.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kubernetes. These technologies are used to develop and maintain KOHO's mobile app, backend infrastructure, and data analytics platform. KOHO is currently using a variety of technologies to support its platform, including AWS, React, and Node.js. The company is also using machine learning and artificial intelligence to provide personalized recommendations and insights to its users.
 
 ## Landscape:
 
