@@ -18,22 +18,24 @@ KOHO makes money in one of two ways. The first is through Premium account subscr
 
 
 ## Business Activities:
-
-* What specific financial problem is the company or project trying to solve? ~ KOHO aims to help people better manage their money and save more effectively. It solves the problem of hidden fees and lack of transparency in the traditional banking industry by offering a no-fee banking solution.The specific financial problem that KOHO is trying to solve is the issue of overspending and financial stress that many Canadians face.
-
-
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+KOHO aims to help people better manage their money and save more effectively. It solves the problem of hidden fees and lack of transparency in the traditional banking industry by offering a no-fee banking solution.The specific financial problem that KOHO is trying to solve is the issue of overspending and financial stress that many Canadians face. Any money you deposit with KOHO is stored at Peoples Trust which is a federally regulated bank. This means your money is CDIC-insured and 100% safe to use. 
  As of September 2021, KOHO has reported over 350,000 users and has processed over CAD $10 billion in transactions. The company has also won several awards, including the Best Financial Technology Solution at the 2021 Canadian Innovation Awards.
 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-  KOHO's main product is a mobile banking app and prepaid Visa card that is designed to help users set and stick to a budget, while also earning cashback rewards on their purchases. The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account. The solution that KOHO offers is a mobile app and reloadable Visa card that provides users with real-time insights into their spending and savings habits. KOHO's app allows users to set savings goals, track their spending, and earn cash back on purchases. The company's unfair advantage is its user-friendly interface and its commitment to transparency and accessibility.
+  KOHO's main product is a mobile banking app and prepaid Visa card that is designed to help users set and stick to a budget, while also earning cashback rewards on their purchases. 
+  Roundups, where every purchase you make is rounded to the nearest dollar or 2 dollars and automatically stashed away in a savings account for you.
+
+Smart Savings Make a goal, pick a date and KOHO will automatically transfer money every day into your goal.
+
+Earn high Interest KOHO also functions like a high-interest savings account, and has one of the best rates in Canada.
+
+The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account. The solution that KOHO offers is a mobile app and reloadable Visa card that provides users with real-time insights into their spending and savings habits. KOHO's app allows users to set savings goals, track their spending, and earn cash back on purchases. The company's unfair advantage is its user-friendly interface and its commitment to transparency and accessibility.
 
 KOHO also aims to provide a more affordable and accessible alternative to traditional banking, with no monthly fees or minimum balance requirements. By helping users better understand their spending habits and save more effectively, KOHO hopes to reduce financial stress and improve financial well-being for Canadians.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kubernetes. These technologies are used to develop and maintain KOHO's mobile app, backend infrastructure, and data analytics platform. KOHO is currently using a variety of technologies to support its platform, including AWS, React, and Node.js. The company is also using machine learning and artificial intelligence to provide personalized recommendations and insights to its users.
+KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kubernetes. These technologies are used to develop and maintain KOHO's mobile app, backend infrastructure, and data analytics platform. KOHO is currently using a variety of technologies to support its platform, including AWS, React, and Node.js. The company is also using machine learning and artificial intelligence to provide personalized recommendations and insights to its users. KOHO Financial uses 43 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.KOHO Financial is actively using 115 technologies for its website, according to BuiltWith. These include IPhone / Mobile Compatible, LetsEncrypt, and Google Font API.
 
 ## Landscape:
 
@@ -78,4 +80,5 @@ Utilizing blockchain technology for secure and transparent international money t
 Resources
 * https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/
 * https://www.crunchbase.com/organization/koho-financial/company_financials
-
+* https://www.moneywithmark.ca/reviews/koho-visa-card-review/
+* https://hardbacon.ca/en/credit-cards/koho-review/
