@@ -1,6 +1,7 @@
 # Module1-Challenge
 
 # KOHO ~ democratizing financial products for Canadians. 
+![alt text](https://www.moneywehave.com/wp-content/uploads/2022/07/Koho-Mastercard.png)
 
 ## Overview & Origin
 
@@ -86,6 +87,7 @@ In terms of technologies that could be utilized for these new products or servic
 Introducing new products and services can potentially be advantageous for KOHO as it provides customers with more options while simultaneously increasing the company's revenue. Furthermore, integrating innovative technologies can improve the overall customer experience and set KOHO apart from competitors in the industry.
 
 Resources
+* https://www.moneywehave.com/wp-content/uploads/2022/07/Koho-Mastercard.png
 * https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/
 * https://www.crunchbase.com/organization/koho-financial/company_financials
 * https://www.moneywithmark.ca/reviews/koho-visa-card-review/
