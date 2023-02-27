@@ -16,7 +16,7 @@ KOHO Financial has raised a total of $278.9M in funding over 10 rounds. Their la
 ## Business Activities:
 KOHO aims to help people in managing their finances and save more effectively. It solves the problem of hidden fees and lack of transparency in the traditional banking industry by offering a no-fee banking solution.The specific financial problem that KOHO is trying to solve is the issue of overspending and financial stress that many Canadians face. Any money deposited with KOHO is stored at Peoples Trust, which is a federally regulated bank. Ensuring the money is CDIC-insured and 100% safe to use. Koho also aims to be transparent to built trust with its customers. 
 
-The target market for KOHO is mostly composed of tech-savvy millennials looking for an accessible and reasonably priced replacement for traditional banking services. By providing a mobile app and reloadable Visa card with features that appeal to this population, such cashback benefits and spending insights, the company has deliberately targeted this demographic. According to a press release by KOHO on November 17, 2021, the company had surpassed over two million accounts in Canada, has over 500,000 users and processed over $15 billion in transactions to date. The company has also won several awards, including the Best Financial Technology Solution at the 2021 Canadian Innovation Awards.
+KOHO is designed for individuals seeking to manage their finances effectively. By using KOHO's prepaid Visa card, users can only spend what they have loaded onto the card, which helps them stay within their budget and avoid overspending. This feature promotes responsible spending and can assist users in maintaining good financial habits. KOHO's target audience is mostly composed of tech-savvy millennials looking for an accessible and reasonably priced replacement for traditional banking services. By providing a mobile app and reloadable Visa card with features that appeal to this population, such cashback benefits and spending insights, the company has deliberately targeted this demographic. According to a press release by KOHO on November 17, 2021, the company had surpassed over two million accounts in Canada, has over 500,000 users and processed over $15 billion in transactions to date. The company has also won several awards, including the Best Financial Technology Solution at the 2021 Canadian Innovation Awards.
 
 
 * An unfair advantage they utilize:
@@ -43,21 +43,35 @@ In general KOHO uses:
  
 ## Landscape:
 
-* What domain of the financial industry is the company in? KOHO operates in the domain of digital banking and personal finance management.
+* KOHO operates in the domain of digital banking and personal finance management.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?  Over the last 5-10 years, there have been several major trends and innovations in this domain, including the rise of mobile banking, the adoption of blockchain and cryptocurrency, and the emergence of AI-powered financial management tools.
+* Trends and innovations of personal finance:
+  There have been several major trends and innovations in this domain, including the rise of mobile banking, the adoption of blockchain and cryptocurrency, and the emergence of AI-powered financial management tools.
+    * Mobile-first banking: With the proliferation of smartphones, mobile banking apps have become increasingly popular. These apps offer convenient access to banking services such as checking and savings accounts, investment accounts, loans, and credit cards, all from a mobile device.
 
-* What are the other major companies in this domain? Other major companies in this domain include traditional banks that offer digital banking services, such as TD Bank and RBC, as well as newer digital-only banks, such as Tangerine and Simplii Financial. There are also several fintech startups in Canada, such as Wealthsimple and PayBright, that are focused on providing innovative financial management solutions.
+    * Fintech solutions: Financial technology companies, or fintechs, have developed innovative solutions to help consumers manage their finances. These solutions include budgeting apps, investment platforms, robo-advisors, and more.
+
+    * Personalized experiences: Consumers are increasingly seeking personalized financial experiences that cater to their individual needs and preferences. This has led to the development of personalized banking solutions that offer customized investment portfolios, credit products, and more.
+
+    * Cashless payments: With the rise of contactless payment options, such as mobile wallets and prepaid debit cards, consumers can now make payments without using cash or traditional credit cards.
+
+Other major companies in this domain include traditional banks that offer digital banking services, such as TD Bank and RBC, as well as newer digital-only banks, such as Tangerine and Simplii Financial. There are also several fintech startups in Canada, such as Wealthsimple and PayBright, that are focused on providing innovative financial management solutions. Mobile banking apps like KOHO, Chime, and Revolut allow users to access their accounts, transfer money, and make payments from their mobile devices. Fintech companies have developed a range of tools and apps to help people set and stick to a budget, track their spending, and save more effectively. These include apps like Mint, YNAB, and PocketGuard, which provide users with personalized budgets, savings goals, and alerts. 
 
 ## Results
 
-* What has been the business impact of this company so far? The business impact of KOHO so far has been significant. Since its launch in 2017, the company has grown rapidly, with over 350,000 users and over $4 billion in transactions processed. KOHO has also been recognized as one of Canada's fastest-growing fintech companies, with several awards and accolades to its name.
+* The business impact of KOHO so far has been significant. Since its launch in 2017, the company has grown rapidly, with over 350,000 users and over $4 billion in transactions processed. KOHO has also been recognized as one of Canada's fastest-growing fintech companies, with several awards and accolades to its name.However, due to recession in 2023, KOHO has recently reduced its workforce by 14%, a move that is in line with other technology companies that are downsizing due to challenging market conditions.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
- Some of the core metrics that companies in this domain use to measure success include user growth, transaction volume, and customer satisfaction. Based on these metrics, KOHO is performing well, with steady user growth and high levels of customer satisfaction.
+* KOHO is a company in the personal finance domain, and its success can be measured using several key metrics. These metrics include user acquisition, user engagement, revenue, customer retention, and funding.
 
-* How is your company performing relative to competitors in the same domain?
-  KOHO is also performing well relative to its competitors in the same domain. While the digital banking space in Canada is becoming increasingly crowded, KOHO's commitment to transparency and accessibility has helped it stand out from the competition.
+In terms of user acquisition, KOHO has acquired over 350,000 users since its launch, which is impressive considering the highly competitive nature of the fintech industry. User engagement is another important metric, and KOHO has a highly engaged user base, with users checking their accounts an average of 11 times per day, which is well above the industry average.
+
+Revenue is a critical metric for measuring a company's financial success, and while KOHO has not disclosed its revenue figures, the company has stated that it has seen significant revenue growth in recent years, driven by its cashback rewards program and other products.
+
+Customer retention is another important metric, and KOHO has a strong track record in this area. The company has a low churn rate, indicating that users are satisfied with the product and are likely to continue using it.
+
+Based on these metrics, KOHO is performing well relative to its competitors in the same domain with steady user growth and high levels of customer satisfaction.
+While the digital banking space in Canada is becoming increasingly crowded, KOHO's commitment to transparency and accessibility has helped it stand out from the competition.
 
 
 ## Recommendations
@@ -88,3 +102,4 @@ Resources
 * https://hardbacon.ca/en/credit-cards/koho-review/
 * https://www.moneysense.ca/save/banking/how-fintech-and-neobanks-are-transforming-banking-in-canada/
 * https://www.linkedin.com/feed/update/urn:li:activity:7024846831901687808/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7024846831901687808%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+* https://betakit.com/koho-lays-off-14-percent-of-staff/
