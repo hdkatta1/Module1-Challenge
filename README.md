@@ -1,7 +1,6 @@
 # Module1-Challenge
-Case Study on Company name and how its solving a standing problem in domainname domain
 
-# KOHO ~ democratizing financial products for Canadians.
+# KOHO ~ democratizing financial products for Canadians. 
 
 ## Overview & Origin
 
