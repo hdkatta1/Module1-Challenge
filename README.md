@@ -86,7 +86,7 @@ These moves may lead to an expansion in the customer base, resulting in increase
 In terms of technologies that could be utilized for these new products or services, KOHO could consider: Partnering with a third-party provider that specializes in international money transfer services, such as TransferWise or PayPal. Utilizing blockchain technology for secure and transparent international money transfers.
 Introducing new products and services can potentially be advantageous for KOHO as it provides customers with more options while simultaneously increasing the company's revenue. Furthermore, integrating innovative technologies can improve the overall customer experience and set KOHO apart from competitors in the industry.
 
-Resources
+### Resources
 * https://www.moneywehave.com/wp-content/uploads/2022/07/Koho-Mastercard.png
 * https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/banking-personal-finance/koho/
 * https://www.crunchbase.com/organization/koho-financial/company_financials
