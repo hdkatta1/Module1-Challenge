@@ -1,9 +1,9 @@
 # Module1-Challenge
 Case Study on Company name and how its solving a standing problem in domainname domain
 
-# Overview & Origin
+# KOHO ~ democratizing financial products for Canadians.
 
-## KOHO ~ democratizing financial products for Canadians. 
+## Overview & Origin
 
 * KOHO, a Canadian fintech startup, has revolutionized the traditional banking industry in Canada since its founding in 2014. KOHO offers a mobile banking app and prepaid Visa card,that give its customers a distinctive banking experience. KOHO has gained a significant amount of users among Canadian millennials by removing the typical fees associated with conventional banking, offering other financial management tools, and providing cashback rewards. KOHO has attracted millions of users who seek a better way to manage their finances and save more effectively. KOHO aims to lessen financial stress and enhance financial well-being for Canadians by assisting users in understanding their spending patterns and saving more effectively.
   
