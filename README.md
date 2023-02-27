@@ -30,7 +30,7 @@ KOHO is designed for individuals seeking to manage their finances effectively. B
 The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account. KOHO provides users with real-time insights into their spending and savings habits, by allowing users to set savings goals, track their spending, and earn cash back on purchases. The company's unfair advantage is its user-friendly interface and its commitment to transparency and accessibility.
 KOHO also aims to provide a more affordable and accessible alternative to traditional banking, with no monthly fees or minimum balance requirements. 
 
-  * Technologies 
+ * Technologies 
 
 KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kubernetes. These technologies are used to develop and maintain KOHO's mobile app, backend infrastructure, and data analytics platform. The company is also using machine learning and artificial intelligence to provide personalized recommendations and insights to its users. KOHO Financial uses 43 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.KOHO Financial is actively using 115 technologies for its website, according to BuiltWith. These include IPhone / Mobile Compatible, LetsEncrypt, and Google Font API.
 
@@ -61,7 +61,7 @@ Other major companies in this domain include traditional banks that offer digita
 
 * The business impact of KOHO so far has been significant. Since its launch in 2017, the company has grown rapidly, with over 350,000 users and over $4 billion in transactions processed. KOHO has also been recognized as one of Canada's fastest-growing fintech companies, with several awards and accolades to its name.However, due to recession in 2023, KOHO has recently reduced its workforce by 14%, a move that is in line with other technology companies that are downsizing due to challenging market conditions.
 
-* KOHO is a company in the personal finance domain, and its success can be measured using several key metrics. These metrics include user acquisition, user engagement, revenue, customer retention, and funding.
+KOHO is a company in the personal finance domain, and its success can be measured using several key metrics. These metrics include user acquisition, user engagement, revenue, customer retention, and funding.
 
 In terms of user acquisition, KOHO has acquired over 350,000 users since its launch, which is impressive considering the highly competitive nature of the fintech industry. User engagement is another important metric, and KOHO has a highly engaged user base, with users checking their accounts an average of 11 times per day, which is well above the industry average.
 
@@ -77,8 +77,7 @@ While the digital banking space in Canada is becoming increasingly crowded, KOHO
 
 ## Recommendations
 
-* If you were to advise the company,  international transfers, koho offers credit building, its slowly improving its features.
- If I were to advise KOHO, I would suggest that the company consider expanding its offerings to include international transfers,and investment services as it is a significant need for KOHO's demographic. Offering these types of accounts would allow customers to save and invest their money with KOHO, increasing the amount of money they hold with the company and potentially leading to more revenue for KOHO. The company could also look into offering high-yield savings or investment options to differentiate themselves from competitors.
+KOHO is gradually upgrading its features. If I were to advise KOHO, I would suggest that the company consider expanding its offerings to include international transfers,and investment services as it is a significant need for KOHO's demographic. Offering these types of accounts would allow customers to save and invest their money with KOHO, increasing the amount of money they hold with the company and potentially leading to more revenue for KOHO. The company could also look into offering high-yield savings or investment options to differentiate themselves from competitors.
  
 At present, KOHO does not provide its customers with international money transfer services. The addition of this feature could prove advantageous for individuals who frequently travel or have relatives and acquaintances residing overseas, as it would enable them to transfer funds across borders quickly and safely. 
 These moves may lead to an expansion in the customer base, resulting in increased revenue for the company.
