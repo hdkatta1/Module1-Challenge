@@ -31,15 +31,16 @@ The target market for KOHO is mostly composed of tech-savvy millennials looking 
 The app allows users to track their spending in real-time, set savings goals, and automate their savings by rounding up their purchases and transferring the difference into a savings account. KOHO provides users with real-time insights into their spending and savings habits, by allowing users to set savings goals, track their spending, and earn cash back on purchases. The company's unfair advantage is its user-friendly interface and its commitment to transparency and accessibility.
 KOHO also aims to provide a more affordable and accessible alternative to traditional banking, with no monthly fees or minimum balance requirements. 
 
-* Technologies 
+  * Technologies 
+
 KOHO's technology stack includes React Native, Node.js, PostgreSQL, AWS, and Kubernetes. These technologies are used to develop and maintain KOHO's mobile app, backend infrastructure, and data analytics platform. The company is also using machine learning and artificial intelligence to provide personalized recommendations and insights to its users. KOHO Financial uses 43 technology products and services including HTML5, jQuery, and Google Analytics, according to G2 Stack.KOHO Financial is actively using 115 technologies for its website, according to BuiltWith. These include IPhone / Mobile Compatible, LetsEncrypt, and Google Font API.
 
 In general KOHO uses: 
- * Mobile applications: that allow users to manage their accounts, track their spending, and make payments from their smartphones.
- * Data analytics:  KOHo gathers a lot of information on the tastes and spending patterns of its users. They use this information to offer consumers personalized advice and insights to assist in making wise financial decisions.
- * Artificial intelligence and machine learning: A user's purchasing patterns can be identified using AI&ML tools, which can be used to advise on user's spending habits and suggest ways to save money.
- * Cloud computing: Using the cloud to store and handle massive volumes of data is essential for delivering personalised suggestions and real-time account information.
- * Security technologies:  including encryption and biometric authentication, to safeguard their consumers' financial data and keep it secure.
+   * Mobile applications: that allow users to manage their accounts, track their spending, and make payments from their smartphones.
+   * Data analytics:  KOHo gathers a lot of information on the tastes and spending patterns of its users. They use this information to offer consumers personalized advice and insights to assist in making wise financial decisions.
+  * Artificial intelligence and machine learning: A user's purchasing patterns can be identified using AI&ML tools, which can be used to advise on user's spending habits and suggest ways to save money.
+   * Cloud computing: Using the cloud to store and handle massive volumes of data is essential for delivering personalised suggestions and real-time account information.
+   * Security technologies:  including encryption and biometric authentication, to safeguard their consumers' financial data and keep it secure.
  
 ## Landscape:
 
